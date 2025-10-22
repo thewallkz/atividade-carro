@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w\\Documents\\codigos\\carro\\carro.csproj": {}
+    "C:\\Users\\w\\Documents\\codigos\\atividade-carro\\carro\\carro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w\\Documents\\codigos\\carro\\carro.csproj": {
+    "C:\\Users\\w\\Documents\\codigos\\atividade-carro\\carro\\carro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w\\Documents\\codigos\\carro\\carro.csproj",
+        "projectUniqueName": "C:\\Users\\w\\Documents\\codigos\\atividade-carro\\carro\\carro.csproj",
         "projectName": "carro",
-        "projectPath": "C:\\Users\\w\\Documents\\codigos\\carro\\carro.csproj",
+        "projectPath": "C:\\Users\\w\\Documents\\codigos\\atividade-carro\\carro\\carro.csproj",
         "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w\\Documents\\codigos\\carro\\obj\\",
+        "outputPath": "C:\\Users\\w\\Documents\\codigos\\atividade-carro\\carro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\w\\AppData\\Roaming\\NuGet\\NuGet.Config"
