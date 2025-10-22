@@ -1,29 +1,12 @@
-// 1. Criar uma instância (objeto) da classe Carro
-meuCarro = novo Carro()
-meuCarro.cor = "Vermelho"
-meuCarro.modelo = "Esportivo"
-meuCarro.velocidadeMaxima = 180.0
-meuCarro.velocidadeAtual = 0.0
+# Atividade Carro C#
 
-// 2. Ligar o carro
-meuCarro.liga()
-// Saída esperada: "Carro ligado"
+Este é um projeto simples em C# (.NET 8) criado como parte de uma atividade de curso.
 
-// 3. Acelerar o carro
-meuCarro.acelera(35.5)
-imprimir("Velocidade atual: " + meuCarro.velocidadeAtual)
-// Saída esperada: "Velocidade atual: 35.5"
+## Objetivo
 
-// 4. Verificar a marcha atual
-marchaAtual = meuCarro.passarMarcha()
-imprimir("Marcha atual: " + marchaAtual)
-// Saída esperada: "Marcha atual: 2"
+O projeto define uma classe chamada `Carro` que simula algumas funcionalidades básicas de um carro, como:
 
-// 5. Acelerar mais
-meuCarro.acelera(50.0)
-imprimir("Velocidade atual: " + meuCarro.velocidadeAtual)
-// Saída esperada: "Velocidade atual: 85.5"
-
-marchaAtual = meuCarro.passarMarcha()
-imprimir("Marcha atual: " + marchaAtual)
-// Saída esperada: "Marcha atual: 4"
+* Ter propriedades como cor, modelo, velocidade máxima e velocidade atual.
+* Um método para "ligar" o carro (exibe uma mensagem).
+* Um método `acelera` para aumentar ou diminuir a velocidade, respeitando a velocidade máxima.
+* Um método `passarMarcha` que indica a marcha apropriada com base na velocidade atual.
